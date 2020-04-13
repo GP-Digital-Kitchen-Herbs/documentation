@@ -4,7 +4,7 @@ title: Vorlage
 
 # Titel der Quelle
 
-[Link zur originalseite (falls verfügbar)](#)
+[Link zur Originalseite (falls verfügbar)](#)
 
 ## Zusammenfassung
 

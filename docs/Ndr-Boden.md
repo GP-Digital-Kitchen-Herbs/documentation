@@ -4,7 +4,7 @@ title: Den Gartenboden bestimmen und verbessern
 
 # Den Gartenboden bestimmen und verbessern
 
-[Link zur originalseite](https://www.ndr.de/ratgeber/garten/Den-Gartenboden-bestimmen-und-verbessern,gartenboden100.html)
+[Link zur Originalseite](https://www.ndr.de/ratgeber/garten/Den-Gartenboden-bestimmen-und-verbessern,gartenboden100.html)
 
 ## Zusammenfassung
 

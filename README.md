@@ -3,16 +3,20 @@
 ## Installationsanleitung
 
 1. [Python](https://www.python.org/downloads/) installieren. (Falls noch nicht geschehen)
-2. MkDocs installieren, dafür in einer beliebigen Kommandozeile ausführen:
+2. MkDocs und das Theme installieren, dafür in einer beliebigen Kommandozeile ausführen:
     ```
-    pip install mkdocs-material
+    pip3 install mkdocs-material
     ```
-3. [Repo](https://github.com/Bettlaken/K_H_Literature) klonen.
-4. In einer Kommandozeile in das Projekt wechseln und folgenden Befehl ausführen:
+3. Support für Tags installieren:
+    ```
+    pip3 install git+https://github.com/jldiaz/mkdocs-plugin-tags.git
+    ```
+4. [Repo](https://github.com/Bettlaken/K_H_Literature) klonen.
+5. In einer Kommandozeile in das Projekt wechseln und folgenden Befehl ausführen:
     ```
     mkdocs serve
     ```
-5. In einen beliebigen Browser folgende URL öffnen:
+6. In einen beliebigen Browser folgende URL öffnen:
     ```
     http://127.0.0.1:8000/
     ```

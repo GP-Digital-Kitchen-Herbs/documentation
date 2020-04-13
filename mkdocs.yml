@@ -1,6 +1,6 @@
 # Project information
-site_name: GPA Kitchen Herbs - Literature
-site_description: Literature Wiki for the GPA Kitchen Herbs project
+site_name: GPA Kitchen Herbs - Literatur
+site_description: Literatur-Wiki für das GPA Küchenkräuter Projekt
 site_author: GPA Team
 
 # Repository
@@ -12,14 +12,15 @@ theme:
   name: material
   language: de
   palette:
-    primary: indigo
-    accent: indigo
+    primary: green
+    accent: light-green
   font:
     text: Roboto
     code: Roboto Mono
 
 # Extensions
 markdown_extensions:
+  - meta
   - admonition
   - codehilite:
       guess_lang: false

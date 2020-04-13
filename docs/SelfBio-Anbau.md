@@ -4,7 +4,7 @@ title: Erfolgreich Kräuter auf der Fensterbank anbauen - Basilikum, Petersilie,
 
 # Erfolgreich Kräuter auf der Fensterbank anbauen - Basilikum, Petersilie, Dill und Schnittlauch
 
-[Link zur Originalseite](https://www.youtube.com/watch?v=VHbx6nb3lRU)
+[Link zur Originalseite (20min)](https://www.youtube.com/watch?v=VHbx6nb3lRU)
 
 ## Zusammenfassung
 

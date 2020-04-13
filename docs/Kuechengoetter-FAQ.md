@@ -9,6 +9,7 @@ title: Häufig gestellte Fragen & Tipps
 ## Zusammenfassung
 
 Häufig gestellte Fragen zum Anbau und Pflege von Küchenkräutern.
+
 * Standort
 * Boden
 * Ernte
@@ -19,6 +20,7 @@ Ebenso lassen sich von verschieden Pflanzen noch weitere (allgemeine) Informatio
 ## Wichtige Informationen
 
 Hinweise:
+
 * Viel licht -> Balkon, Fenster
 * Käutererde
 * Verträglichkeit mit anderen Kräutern

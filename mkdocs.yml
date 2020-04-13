@@ -1,0 +1,27 @@
+# Project information
+site_name: GPA Kitchen Herbs - Literature
+site_description: Literature Wiki for the GPA Kitchen Herbs project
+site_author: GPA Team
+
+# Repository
+repo_name: Bettlaken/K_H_Literature
+repo_url: https://github.com/Bettlaken/K_H_Literature
+
+# Configuration
+theme:
+  name: material
+  language: de
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true

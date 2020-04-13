@@ -16,7 +16,7 @@ Beinhaltet ebenso kurze und recht allgemeine Hinweise zu verschiedenen Pflanzen 
 ### Allgemeines zum Anbau von Küchenkräutern:
 * Bevorzugt sonniger Standort (Fenster nach Westen oder Süden)
 * Keine Heizung darunter
-* Für die Plfanze entsprechend großes Pflanzengefäß
+* Für die Pflanze entsprechend großes Pflanzengefäß
     * Kresse: Niedriges Gefäß
     * Salbei, Rosmarin eher größere Töpfe
 * Regelmäßig giessen

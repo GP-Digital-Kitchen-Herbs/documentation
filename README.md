@@ -20,6 +20,6 @@
 Im Ordner ``docs`` eine neue Markdown-Datei anlegen.
 
 ### Empfehlungen und weiteres: 
-1. IntelliJ nutzen, Markdown Preview und Terminal integriert.
+1. IntelliJ oder VsCode nutzen, Markdown Preview und Terminal integriert.
 2. [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

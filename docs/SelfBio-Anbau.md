@@ -41,7 +41,7 @@ Saattiefe:
 * Schnittlauch: ca. 2cm
 * Koriander: ca. 1cm
 
-### Weitere Links (z.B. zu bestimmten Pflanzen)
+### Weitere Links
 
 ## Schlagworte
 

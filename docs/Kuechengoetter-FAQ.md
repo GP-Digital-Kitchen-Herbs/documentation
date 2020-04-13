@@ -1,0 +1,52 @@
+--------------------
+title: Häufig gestellte Fragen & Tipps
+--------------------
+
+# Häufig gestellte Fragen & Tipps
+
+[Link zur Originalseite](https://www.kuechengoetter.de/kuechenlexikon/kuechenkraeuter#haeufig-gestellte-fragen-tipps)
+
+## Zusammenfassung
+
+Häufig gestellte Fragen zum Anbau und Pflege von Küchenkräutern.
+* Standort
+* Boden
+* Ernte
+* Fehler / Hinweise 
+
+Ebenso lassen sich von verschieden Pflanzen noch weitere (allgemeine) Informationen vorfinden. (Hochscrollen)
+
+## Wichtige Informationen
+
+Hinweise:
+* Viel licht -> Balkon, Fenster
+* Käutererde
+* Verträglichkeit mit anderen Kräutern
+* Topfart (Plastik oder Ton)
+* Gekaufte Kräuter am besten Umtopfen
+
+### Weitere Links 
+
+## Schlagworte
+
+* Standort
+* Boden
+* Ernte
+* Fehler
+* Hinweise
+* Basilikum
+* Bohnenkraut
+* Dill
+* Estragon
+* Kerbel
+* Liebstöckel
+* Majoran
+* Minze
+* Oregano
+* Petersilie
+* Rosmarin
+* Salbei
+* Thymian
+* Schnittlauch
+* Zitronenmelisse
+

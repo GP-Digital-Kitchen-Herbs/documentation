@@ -24,6 +24,7 @@ plugins:
       lang: de
   - tags:
       tags_folder: tags
+      tags_template: theme/tags.md.template
 
 # Extensions
 markdown_extensions:

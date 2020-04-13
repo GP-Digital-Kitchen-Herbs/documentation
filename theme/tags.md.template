@@ -1,0 +1,13 @@
+---
+title: Tags
+---
+# Nach Tags gruppiert
+
+{% for tag, pages in tags %}
+
+## <span class="tag">{{tag}}</span>
+{%  for page in pages %}
+  * [{{page.title}}]({{page.filename}})
+{% endfor %}
+
+{% endfor %}

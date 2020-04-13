@@ -16,6 +16,8 @@
     ```
     http://127.0.0.1:8000/
     ```
+## Hinzufügen neuer Einträge
+Im Ordner ``docs`` eine neue Markdown-Datei anlegen.
 
 ### Empfehlungen und weiteres: 
 1. IntelliJ nutzen, Markdown Preview und Terminal integriert.

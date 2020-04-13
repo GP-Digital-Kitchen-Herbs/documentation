@@ -18,6 +18,11 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+# Plugins
+plugins:
+  - search:
+      lang: de
+
 # Extensions
 markdown_extensions:
   - meta

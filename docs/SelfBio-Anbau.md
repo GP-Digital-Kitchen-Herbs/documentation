@@ -25,6 +25,12 @@ Selbstanbau:
 * Beim Pikieren "Aussahterde", wenn direkt im Endtopf: Gemüse- oder Kräutererde.
 * Nicht so Dicht wie die gekauften sähen
 
+Mögliche Probleme:
+* Austrocknen
+* Zu nass (Staunässe)
+* Im Winter zu wenig Licht
+* Sauerstoffmangel 
+
 Sähen (Abstand):
 * [10:15f](https://youtu.be/VHbx6nb3lRU?t=617)
 

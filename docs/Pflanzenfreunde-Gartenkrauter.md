@@ -1,6 +1,26 @@
---------------------
+---
 title: Der Kräutergarten
---------------------
+tags:
+ - Datenbank
+ - Suche
+ - Übersicht
+ - Kräutergarten
+ - Eigenschaften
+ - Hinweise
+ - Ananas-Salbei
+ - Basilikum
+ - Dill
+ - Minze
+ - Koriander
+ - Kresse
+ - Kümmel
+ - Lavendel
+ - Oregano
+ - Rosmarin
+ - Salbei
+ - Schnittlauch
+ - Thymian
+---
 
 # Der Kräutergarten
 
@@ -8,34 +28,6 @@ title: Der Kräutergarten
 
 ## Zusammenfassung
 
-Übersicht über verschiedenste Kräuter, deren Haltung und Eigenschaften. 
-Hilfestellung zum anlegen eines Kräutergartens.
+Übersicht über verschiedenste Kräuter, deren Haltung und Eigenschaften.
+Hilfestellung zum Anlegen eines Kräutergartens.
 Nicht alles spezifisch für Zimmerpflanzen.
-
-## Wichtige Informationen
-
-
-### Weitere Links (z.B. zu bestimmten Pflanzen)
-
-## Schlagworte
-
-* Datenbank
-* Suche
-* Übersicht
-* Kräutergarten
-* Eigenschaften
-* Hinweise
-* Ananas-Salbei
-* Basilikum
-* Dill
-* Minze
-* Koriander
-* Kresse
-* Kümmel
-* Lavendel
-* Oregano
-* Rosmarin
-* Salbei
-* Schnittlauch
-* Thymian
-

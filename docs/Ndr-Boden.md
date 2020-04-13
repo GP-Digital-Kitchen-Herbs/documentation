@@ -1,6 +1,9 @@
---------------------
+---
 title: Den Gartenboden bestimmen und verbessern
---------------------
+tags:
+ - Boden
+ - Analyse
+---
 
 # Den Gartenboden bestimmen und verbessern
 
@@ -8,7 +11,7 @@ title: Den Gartenboden bestimmen und verbessern
 
 ## Zusammenfassung
 
-Allgemeine Infos zum Gartenboden im Hinblick auf das Gedeihen der Pflanzen. 
+Allgemeine Infos zum Gartenboden im Hinblick auf das Gedeihen der Pflanzen.
 Darunter wie die Bodenart bestimmt und schließlich optimiert werden kann.
 
 ## Wichtige Informationen
@@ -18,14 +21,3 @@ Bodenart bestimmen:
 
 Bodenanalyse:
 > Mit Schnelltests aus dem Gartenfachhandel lässt sich die Nährstoffversorgung des Bodens prüfen. 
-
-### Weitere Links (z.B. zu bestimmten Pflanzen)
-
-
-## Schlagworte
-
-* Boden
-* Gartenboden
-* Verbessern
-* Analyse
-

@@ -1,6 +1,8 @@
---------------------
+---
 title: Gartendialog - Kräuter Übersicht
---------------------
+tags:
+ - Definition
+---
 
 # Einjährige, zweijährige & mehrjährige Kräuter – Übersicht
 
@@ -34,7 +36,3 @@ Die „echten einjährigen Pflanzen“ sind die Pflanzen, die einen Sommer lang 
 
 * Basilikum
 * Schnittlauch
-
-## Schlagworte
-
-* Definitionen

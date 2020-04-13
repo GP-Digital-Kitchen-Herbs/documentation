@@ -1,6 +1,27 @@
---------------------
+---
 title: Häufig gestellte Fragen & Tipps
---------------------
+tags:
+ - Standort
+ - Boden
+ - Ernte
+ - Fehler
+ - Hinweise
+ - Basilikum
+ - Bohnenkraut
+ - Dill
+ - Estragon
+ - Kerbel
+ - Liebstöckel
+ - Majoran
+ - Minze
+ - Oregano
+ - Petersilie
+ - Rosmarin
+ - Salbei
+ - Thymian
+ - Schnittlauch
+ - Zitronenmelisse
+---
 
 # Häufig gestellte Fragen & Tipps
 
@@ -26,29 +47,3 @@ Hinweise:
 * Verträglichkeit mit anderen Kräutern
 * Topfart (Plastik oder Ton)
 * Gekaufte Kräuter am besten Umtopfen
-
-### Weitere Links 
-
-## Schlagworte
-
-* Standort
-* Boden
-* Ernte
-* Fehler
-* Hinweise
-* Basilikum
-* Bohnenkraut
-* Dill
-* Estragon
-* Kerbel
-* Liebstöckel
-* Majoran
-* Minze
-* Oregano
-* Petersilie
-* Rosmarin
-* Salbei
-* Thymian
-* Schnittlauch
-* Zitronenmelisse
-

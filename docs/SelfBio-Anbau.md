@@ -1,6 +1,14 @@
---------------------
+---
 title: Erfolgreich Kräuter auf der Fensterbank anbauen - Basilikum, Petersilie, Dill und Schnittlauch
---------------------
+tags:
+ - Anbau
+ - Gekauft
+ - Basilikum
+ - Petersilie
+ - Dill
+ - Schnittlauch
+ - Saattiefe
+---
 
 # Erfolgreich Kräuter auf der Fensterbank anbauen - Basilikum, Petersilie, Dill und Schnittlauch
 
@@ -45,18 +53,3 @@ Saattiefe:
 * Dill: ca. 1-2cm
 * Schnittlauch: ca. 2cm
 * Koriander: ca. 1cm
-
-### Weitere Links
-
-## Schlagworte
-
-* Anbau
-* Gekauft
-* Basilikum
-* Petersilie
-* Dill
-* Schnittlauch
-* Gärtner(ei)
-* Saattiefe
-
-

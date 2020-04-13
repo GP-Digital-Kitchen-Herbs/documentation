@@ -1,6 +1,18 @@
---------------------
+---
 title: 8 Kräuter die du einfach auf der Fensterbank anbauen kannst
---------------------
+tags:
+ - Anbau
+ - Allgemeines
+ - Hinweise
+ - Dill
+ - Petersilie
+ - Schnittlauch
+ - Oregano
+ - Basilikum
+ - Pfefferminze
+ - Kresse
+ - Thymian
+---
 
 # 8 Kräuter die du einfach auf der Fensterbank anbauen kannst
 
@@ -24,20 +36,3 @@ Beinhaltet ebenso kurze und recht allgemeine Hinweise zu verschiedenen Pflanzen 
 * Regelmäßig nach Schädlingen untersuchen
 * Blüten regelmäßig entfernen, da sie der Pflanze Kraft rauben
 * Nach ein paar Wochen düngen
-
-### Weitere Links
-
-## Schlagworte
-
-* Anbauen
-* Allgemeines
-* Hinweise
-* Dill
-* Petersilie
-* Schnittlauch
-* Oregano
-* Basilikum
-* Pfefferminze
-* Kresse
-* Thymian
-

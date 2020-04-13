@@ -1,5 +1,7 @@
 --------------------
 title: Aromatische Kräuter aus dem eigenen Garten
+tags:
+ - Standort
 --------------------
 
 # Aromatische Kräuter aus dem eigenen Garten
@@ -23,8 +25,3 @@ Standort:
 
 
 ### Weitere Links
-
-## Schlagworte
-
-* Standort
-

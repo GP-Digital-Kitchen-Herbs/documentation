@@ -1,6 +1,8 @@
---------------------
+---
 title: Vorlage
---------------------
+tags:
+ - Vorlage
+---
 
 # Titel der Quelle
 
@@ -17,9 +19,4 @@ Eine kurze Zusammenfassung der Quelle
 > Sonstige Aufbereitung des Inhalts
 
 ### Weitere Links (z.B. zu bestimmten Pflanzen)
-
-## Schlagworte
-
-* Vorlage
-* Schlagworte
 

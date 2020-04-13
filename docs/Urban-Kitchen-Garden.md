@@ -1,6 +1,13 @@
---------------------
+---
 title: Urban Kitchen Garden
---------------------
+tags:
+ - DIY
+ - Open Source
+ - Arduino
+ - Sensoren
+ - Automatisierung
+ - Lösung
+---
 
 # Urban Kitchen Garden
 
@@ -30,13 +37,3 @@ Vorgestellt in verschiedenen Videos.
 
 1. [Youtube-Playlist](https://www.youtube.com/watch?v=S8jAHfYaprE&list=PLxyM2a_cfnzgLjCoJ04S2Z812JrdFKbFX)
 2. [Github-Repo](https://github.com/MKme/Urban-Kitchen-Garden)
-
-## Schlagworte
-
-* DIY
-* Open-Source
-* Arduino
-* Sensoren
-* Automatisch
-* Lösung
-

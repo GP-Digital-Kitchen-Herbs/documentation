@@ -1,6 +1,11 @@
---------------------
+---
 title: Kräuter & Gemüse von Blu
---------------------
+tags:
+ - Datenbank
+ - Nachschlagewerk
+ - Liste
+ - Suche
+---
 
 # Kräuter & Gemüse von Blu
 
@@ -15,11 +20,3 @@ Gärtnerei Blu mit Fokus auf Selbstanbau von Kräutern.
 
 ### Weitere Links
 [Sortiment und Pflanzensuche](https://www.blu-blumen.de/sortiment/)
-
-## Schlagworte
-
-* Datenbank
-* Nachschlagewerk
-* Liste
-* Suche
-

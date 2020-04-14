@@ -1,8 +1,8 @@
---------------------
+---
 title: Aromatische Kräuter aus dem eigenen Garten
 tags:
  - Standort
---------------------
+---
 
 # Aromatische Kräuter aus dem eigenen Garten
 
@@ -22,6 +22,3 @@ Standort:
 | Lavendel          | Schnittlauch            | Pfefferminze        |
 | Salbei            | Petersilie              | Kerbel              |
 | Oregano           | Koriander               | Brunnenkresse       |
-
-
-### Weitere Links

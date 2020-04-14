@@ -5,19 +5,9 @@ tags:
  - Hinweise
  - Petersilie
  - Schnittlauch
- - Kresse
  - Dill
  - Basilikum
- - Oregano
- - Rosmarin
- - Thymian
- - Kerbel
- - Bohnenkraut
- - Lorbeer
- - Majoran
- - Pimpinelle
  - Minze
- - Melisse
 ---
 
 # Küchenkräuter - Die 15 wichtigsten Küchenkräuter

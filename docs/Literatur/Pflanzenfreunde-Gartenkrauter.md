@@ -7,19 +7,10 @@ tags:
  - Kräutergarten
  - Eigenschaften
  - Hinweise
- - Ananas-Salbei
  - Basilikum
  - Dill
  - Minze
- - Koriander
- - Kresse
- - Kümmel
- - Lavendel
- - Oregano
- - Rosmarin
- - Salbei
  - Schnittlauch
- - Thymian
 ---
 
 # Der Kräutergarten

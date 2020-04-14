@@ -4,7 +4,7 @@ tags:
  - DIY
  - Open Source
  - Arduino
- - Sensoren
+ - Sensor
  - Automatisierung
  - Lösung
 ---

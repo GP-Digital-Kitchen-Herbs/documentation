@@ -7,11 +7,8 @@ tags:
  - Dill
  - Petersilie
  - Schnittlauch
- - Oregano
  - Basilikum
  - Pfefferminze
- - Kresse
- - Thymian
 ---
 
 # 8 Kräuter die du einfach auf der Fensterbank anbauen kannst

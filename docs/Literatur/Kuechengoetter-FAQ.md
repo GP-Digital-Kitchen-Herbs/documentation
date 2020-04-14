@@ -7,20 +7,10 @@ tags:
  - Fehler
  - Hinweise
  - Basilikum
- - Bohnenkraut
  - Dill
- - Estragon
- - Kerbel
- - Liebstöckel
- - Majoran
  - Minze
- - Oregano
  - Petersilie
- - Rosmarin
- - Salbei
- - Thymian
  - Schnittlauch
- - Zitronenmelisse
 ---
 
 # Häufig gestellte Fragen & Tipps

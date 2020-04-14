@@ -15,7 +15,7 @@ tags:
 
 ## Zusammenfassung
 
-Allgemeine Pflegehinweise sowie zu bestimmten Kräutern spezifische Informationen wie Standort, Subbstrat, Pflege, Überwinterung und Ernte.
+Allgemeine Pflegehinweise sowie zu bestimmten Kräutern spezifische Informationen wie Standort, Subbstrat, Pflege, Überwinterung, Ernte und teilweise Temperaturangaben.
 
 ## Wichtige Informationen
 

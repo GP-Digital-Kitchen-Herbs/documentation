@@ -4,6 +4,11 @@ tags:
   - Anbau
   - Standort
   - Umtopfen
+  - Basilikum
+  - Dill
+  - Minze
+  - Petersilie
+  - Schnittlauch
 ---
 
 # Meine Ernte - Kräuter anpflanzen
@@ -16,7 +21,7 @@ Informationen über den Anbau und die Pflege von Kräutern. Darunter auch Vor- u
 
 ## Wichtige Informationen
 
-Standort
+### Standort
 
 > Auf deiner Fensterbank sind Kräuter jederzeit griffbereit.  
 > [...]  
@@ -24,7 +29,7 @@ Standort
 > [...]  
 > In deinem meine ernte Beet haben Kräuter den meisten Platz.
 
-Der richtige Standort für beliebte Kräuter:
+### Der richtige Standort für beliebte Kräuter
 
 | Standort                        | Art                                                                                   |
 | ------------------------------- | ------------------------------------------------------------------------------------- |
@@ -32,11 +37,11 @@ Der richtige Standort für beliebte Kräuter:
 | normale Bedingungen, vollsonnig | Koriander, Melisse, Oregano                                                           |
 | feucht, sonnig bis halbschattig | Estragon, Kerbel, Minze, Petersilie, Schnittlauch                                     |
 
-Kaufen oder anbauen?
+### Kaufen oder anbauen?
 
 > Ein gekaufter Kräutertopf hat den Vorteil, dass du schnell erntereife Kräuter zur Verfügung hast. Achte hierbei jedoch darauf sie richtig umzutopfen, sonst gehen sie schnell ein.
 
-Zeitpunkte der Aussaht:
+### Zeitpunkte der Aussaht
 
 | März         | April           | Mai             |
 | ------------ | --------------- | --------------- |
@@ -49,18 +54,18 @@ Zeitpunkte der Aussaht:
 | Petersilie   |                 |
 | Schnittlauch |                 |
 
-Zeitpunkte des Pflanzens:
+### Zeitpunkte des Pflanzens
 
 | März       | April       | Mai             |
 | ---------- | ----------- | --------------- |
-| Bärlauch   | Liebstöckel | Basilkum        |
+| Bärlauch   | Liebstöckel | Basilikum       |
 | Currykraut | Oregano     | Estragon        |
 | Rosmarin   | Salbei      | Lavendel        |
 |            | Thymian     | Majoran         |
 |            |             | Minze           |
 |            |             | Zitronenmelisse |
 
-Richtiges Umtopfen:
+### Richtiges Umtopfen
 
 > 1. Stelle deinen Kräutertopf zunächst in ein **Wasserbad**. Sobald sich keine Luftblasen mehr an der Oberfläche bilden, kannst du den Topf abtropfen lassen.
 2. Ziehe deine Kräuter vorsichtig mitsamt der Erde aus dem Pflanztopf. **Entferne die Erde** grob, ohne die Wurzeln zu verletzen.
@@ -68,5 +73,6 @@ Richtiges Umtopfen:
 4. **Setze die Kräuter in einen Untertopf** und fülle diesen mit Bio-Kräutererde auf und drücke diese leicht an.
 5. Alternativ zu Töpfen kannst du die Kräuter in deinem **Freilandbeet mit ausreichendem Abstand** einpflanzen. Beachte hier, dass sich einige Kräuter sehr großflächig ausbreiten können. Möchtest du ein Wuchern der Kräuter einschränken, dann pflanze sie auch im Freiland in Töpfe um.
 
-Allgemeine Tips:
+### Allgemeine Tips
+
 > Egal ob du Kräuter in Töpfen oder im Beet anpflanzt, achte darauf, dass sich keine Staunässe im Wurzelbereich bildet. Die Töpfe sollten einen Boden mit Löchern haben, sodass das Wasser abfließen kann.

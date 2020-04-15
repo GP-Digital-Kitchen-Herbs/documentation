@@ -16,6 +16,8 @@ Kleine Beschreibung, wie der Sensor im Projekt genutzt wird.
 ## Code
 [Code-Beispiel](#)
 
+[Link zur offiziellen Dokumentation](#)
+
 ## Interpretation der Daten
 Kurze Erläuterung der Werte, welche der Sensor ausgibt und wie diese weiter zu verwenden sind.
 

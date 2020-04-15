@@ -10,6 +10,7 @@ repo_url: https://github.com/Bettlaken/K_H_Literature
 # Configuration
 theme:
   name: material
+  custom_dir: theme
   language: de
   palette:
     primary: green

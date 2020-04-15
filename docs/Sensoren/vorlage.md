@@ -13,6 +13,9 @@ Kleine Beschreibung, welche Funktion der Sensor hat
 ## Nutzung im Projekt
 Kleine Beschreibung, wie der Sensor im Projekt genutzt wird.
 
+## Hinweise
+Wie zum Beispiel an Digital- oder Analogport
+
 ## Code
 [Code-Beispiel](#)
 

@@ -7,7 +7,7 @@ author: Johannes
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Bettlaken/K_H_Pictures/blob/master/undraw_Gardening.svg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Bettlaken/K_H_Pictures/blob/master/undraw_Gardening.png" alt="Project logo"></a>
 </p>
 
 ---

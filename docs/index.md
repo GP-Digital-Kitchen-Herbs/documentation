@@ -2,6 +2,10 @@
 title: Start
 author: Johannes
 ---
+<div style="display: flex; justify-content: center;">
+    <img src="hero.svg" width="50%">
+</div>
+---
 
 # GPA: Digital Kitchen Herbs - Nachschlagewerk
 

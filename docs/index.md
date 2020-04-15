@@ -5,13 +5,6 @@ author: Johannes
 
 # GPA: Digital Kitchen Herbs - Nachschlagewerk
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Bettlaken/K_H_Pictures/blob/master/undraw_Gardening.png" alt="Project logo"></a>
-</p>
-
----
-
 ## Allgemeines
 
 An dieser Stelle soll eine Art Nachschlagewerk für das GPA Digital Kitchen Herbs entstehen.

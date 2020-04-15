@@ -1,5 +1,11 @@
-# K_H_Literature
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://github.com/Bettlaken/K_H_Pictures/blob/master/undraw_Gardening.svg" alt="Project logo"></a>
+</p>
 
+<h3 align="center">GPA - Digital Kitchen Herbs - Nachschlagewerk</h3>
+
+---
 ## Installationsanleitung
 
 1. [Python](https://www.python.org/downloads/) installieren. (Falls noch nicht geschehen)

@@ -16,7 +16,7 @@ Müsste dafür allerdings über der Pflanze befestigt werden.
 
 ## Hinweise
 - Sollte nicht angeschlossen werden, wenn das Skript schon läuft.
-- Wird an einem Digitalport angeschlossen.
+- Wird an einem **digitalen** Port angeschlossen.
 
 ## Code
 [Code-Beispiel](https://github.com/aletutto/digital-kitchen-herbs/blob/master/ultra_sonic/ultra_sonic_to_thingsboard.py)

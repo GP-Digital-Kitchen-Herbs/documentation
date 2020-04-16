@@ -15,7 +15,7 @@ Misst die Temperatur und Luftfeuchtigkeit.
 Wird im Projekt genutzt um die Temperatur und Luftfeuchtigkeit zu messen.
 
 ## Hinweise
-Wird an einem Digitalport angeschlossen.
+- Wird an einem **digitalen** Port angeschlossen.
 
 ## Code
 [Code-Beispiel](https://github.com/aletutto/digital-kitchen-herbs/blob/master/temp_humidity/temp_humidity_to_thingsboard.py)

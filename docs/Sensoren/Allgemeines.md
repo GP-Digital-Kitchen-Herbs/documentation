@@ -23,6 +23,9 @@ Die folgenden Eigenschaften beziehen sich die im [Pflanzen-Cluster](https://docs
 | Reihenabstand    | / (Kamera mit rund 30-40€ recht teuer) |
 | Erntezeit        | /                                      |
 
-# Weitere Möglichkeiten
+## Weitere Möglichkeiten
 
 Für Feedback könnten: Buzzer, LCD und LED's verwendet werden.
+
+# Code-Repository
+[Repository](https://github.com/aletutto/digital-kitchen-herbs)

@@ -6,6 +6,9 @@
 <h3 align="center">GPA - Digital Kitchen Herbs - Nachschlagewerk</h3>
 
 ---
+
+[Gehostete Version](https://herbs-lit.jaykju.de)
+
 ## Installationsanleitung
 
 1. [Python](https://www.python.org/downloads/) installieren. (Falls noch nicht geschehen)

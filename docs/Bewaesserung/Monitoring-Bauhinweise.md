@@ -6,6 +6,8 @@ title: Monitoring Bauhinweise
 
 Für unsere Zwecke und den benötigten Platzbedarf reicht ein Schuhkarton ohne Probleme aus. Ein etwas höherer Karton wäre aber vielleicht noch besser geeignet.
 
+Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https://www.amazon.de/Emsa-515351-Bew%C3%A4sserungsset-Kr%C3%A4utertopf-Dochthalter/dp/B00T1OG5ZU/) für 2,99€ sind 3 Dochthalter sowie 6 Döchte enthalten.
+
 !!! hint "Der Karton muss hoch genug sein"
     Zwischen Wasseroberfläche und Ultraschallsensor sollten am Ende mindestens 5 cm Platz sein, da der Ultraschallsensor mit kleineren Distanzen Probleme hat.
 
@@ -39,6 +41,9 @@ Für unsere Zwecke und den benötigten Platzbedarf reicht ein Schuhkarton ohne P
 
 ![Aussparung Sensor](2020-04-30-19-29-53.png)
 *Aussparung Sensor*
+
+![Docht_im_Topf](2020-04-30-13-26-09.png)
+*Dochthalter und Docht im Topf*
 
 ![Seitenansicht](2020-04-30-19-30-30.png)
 *Seitenansicht*

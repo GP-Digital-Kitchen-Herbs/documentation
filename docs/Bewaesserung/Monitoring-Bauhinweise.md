@@ -4,7 +4,7 @@ title: Monitoring Bauhinweise
 
 # Monitoring Bauhinweise
 
-Für unsere Zwecke und den benötigten Platzbedarf reicht ein Schuhkarton ohne Probleme aus. Ein etwas höherer Karton wäre aber vielleicht noch besser geeignet.
+Für unsere Zwecke und den benötigten Platzbedarf reicht ein Schuhkarton ohne Probleme aus. Ein etwas höherer Karton wäre aber vielleicht noch besser geeignet. In der aktualisierten Version (siehe [Beispielbilder Johannes](#beispielbilder-johannes)) hat sich eine Mandarinenkiste als praktikabel erwiesen.
 
 Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https://www.amazon.de/Emsa-515351-Bew%C3%A4sserungsset-Kr%C3%A4utertopf-Dochthalter/dp/B00T1OG5ZU/) für 2,99€ sind 3 Dochthalter sowie 6 Döchte enthalten.
 
@@ -21,6 +21,12 @@ Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https
     Theoretisch sollten diese Aussparungen reichen, für einfacheres Nachfüllen des Wasserspeichers bietet es sich aber an, in eine Seite des Kartons ein Loch zu machen. Hierbei ist es sinnvoll nur einen Teil der Seite auszuschneiden, um die Stabilität des Kartons nicht zu verschlechtern.
 
 ## Beispielbilder Johannes
+
+![Aktualisierte Box](update-1.jpeg)
+*Aktualisierte Box*
+
+![Aktualisierte Box Frontansicht](update-2.jpeg)
+*Aktualisierte Box Frontansicht*
 
 ![Aussparungen mit Sensor](2020-04-30-19-23-55.png)
 *Aussparungen mit Sensor*

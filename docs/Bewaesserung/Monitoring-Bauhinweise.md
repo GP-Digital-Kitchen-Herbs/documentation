@@ -22,11 +22,17 @@ Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https
 
 ## Beispielbilder Johannes
 
-![Aktualisierte Box](update-1.jpeg)
-*Aktualisierte Box*
+![Box v3](2020-05-08-21-23-11.png)
+*Box v3*
 
-![Aktualisierte Box Frontansicht](update-2.jpeg)
-*Aktualisierte Box Frontansicht*
+![Box v3 Frontansicht](2020-05-08-21-23-36.png)
+*Box v3 Frontansicht*
+
+![Box v2](update-1.jpeg)
+*Box v2*
+
+![Box v2 Frontansicht](update-2.jpeg)
+*Box v2 Frontansicht*
 
 ![Aussparungen mit Sensor](2020-04-30-19-23-55.png)
 *Aussparungen mit Sensor*
@@ -34,11 +40,11 @@ Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https
 ![Seitliche Aussparung](2020-04-30-19-25-41.png)
 *Seitliche Aussparung*
 
-![Fertige Box Seitenansicht](2020-04-30-19-26-36.png)
-*Fertige Box Seitenansicht*
+![Box v1 Seitenansicht](2020-04-30-19-26-36.png)
+*Box v1 Seitenansicht*
 
-![Fertige Box Draufsicht](2020-04-30-19-27-46.png)
-*Fertige Box Draufsicht*
+![Box v1 Draufsicht](2020-04-30-19-27-46.png)
+*Box v1 Draufsicht*
 
 ## Beispielbilder Maurice
 

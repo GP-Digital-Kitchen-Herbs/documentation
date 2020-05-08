@@ -13,7 +13,7 @@ Zusätzlich wird ein Dochthalter sowie ein Docht benötig. In diesem [Set](https
 
 ## Maße
 
-* Loch für den Kräutertopf: Ø 9,5 cm  
+* Loch für den Kräutertopf: Ø 9,5 cm (8,5 cm passt bei mir für den unteren Rand des Topfes perfekt)
 * Ultraschallsensor: 1,7 cm x 4 cm (1,5 cm x 3,5 cm passt, ist aber enger)
 * Aussparung Kabel: 1,2 cm x 2 cm
 

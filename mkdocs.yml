@@ -19,6 +19,9 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+extra_javascript:
+  - 'assets/javascripts/mermaid.min.js'
+
 # Plugins
 plugins:
   - search:
@@ -35,3 +38,8 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
